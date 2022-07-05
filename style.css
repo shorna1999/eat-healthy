@@ -38,3 +38,65 @@ body{
     padding: 6px;
     margin-top: 10px;
 }
+#pic-2{
+    background-image: url(pic-2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover ;
+    padding: 25px;
+    margin-top: 50px;
+}
+
+.ancor-2{
+text-decoration: none;
+color: white;
+background-color: crimson;
+padding: 15px 35px;
+border-radius: 30px;
+
+}
+.secend{
+width: 40%;    
+text-align:left;
+margin-left: 550px;
+}
+#para-2{
+    margin-bottom: 40px;
+}
+.div-rc{
+    text-align: center;
+}
+.section-4{
+    display: flex;
+    width: 30%;
+    justify-content:space-between
+}
+.div-rc-ti{
+    margin-left: 32px;
+    margin-right: 20px;
+}
+.boder{
+    border: 10px solid wheat;
+    border-radius: 30px;
+    padding: 5px;
+    margin: 5px;
+    box-sizing: border-box;
+}
+.section-5{
+    display: flex;
+    justify-content: space-evenly;
+    justify-items: center;
+    padding: 20px 30px;
+    border: 5px solid rgb(169, 96, 96);
+    border-radius: 30px;
+    margin: 10px;
+}
+.yid{
+    font-size: 30px;
+}
+footer{
+    text-align: center;
+    color: aliceblue;
+    background-color: black;
+    padding: 20px;
+}
